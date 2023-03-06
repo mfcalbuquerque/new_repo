@@ -1,5 +1,3 @@
 Hey,
 
-My name is Marcelo. I study Electrical Machines.
-
-Yes, me again!
+My name is Marcelo. I study polymer electrolytes.
